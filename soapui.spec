@@ -12,7 +12,6 @@ Source1:       https://raw.githubusercontent.com/coder966/soapui-rpm/master/soap
 Source2:       https://raw.githubusercontent.com/SmartBear/soapui/next/soapui/src/main/resources/com/eviware/soapui/resources/images/SoapUI-OS_256-256.png
 
 
-Requires: jdk >= 16
 BuildRequires: desktop-file-utils
 AutoReqProv: no
 
