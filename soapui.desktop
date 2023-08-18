@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=SoapUI
 GenericName=SoapUI
-Exec=/opt/soapui/SoapUI
+Exec=/opt/soapui/bin/soapui.sh
 Icon=/opt/soapui/icon.png
 Terminal=false
 Type=Application
