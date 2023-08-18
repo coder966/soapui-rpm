@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SoapUI
+GenericName=SoapUI
+Exec=/opt/soapui/SoapUI
+Icon=/opt/soapui/icon.png
+Terminal=false
+Type=Application
+Categories=Development;
+StartupWMClass=SoapUI
