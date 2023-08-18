@@ -1,6 +1,6 @@
 Name:          soapui
 Version:       5.7.1
-Release:       1%{?dist}
+Release:       2%{?dist}
 Summary:       SoapUI
 License:       Apache 2.0
 URL:           https://www.soapui.com/
